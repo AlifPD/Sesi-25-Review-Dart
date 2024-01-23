@@ -110,9 +110,9 @@ print(nomor_9.checkFreq([1, 4, 6, 8, 5, 3, 2, 6, 9, 0, 2]));
 
 <ins>**Input:**</ins>
 
-&nbspprint(nomor_10.isArithmeticProgression([1, 2, 3, 4, 5, 6]));
+&nbsp print(nomor_10.isArithmeticProgression([1, 2, 3, 4, 5, 6]));
 
-&nbspprint(nomor_10.isArithmeticProgression([2, 4, 6, 12, 24]));
+&nbsp print(nomor_10.isArithmeticProgression([2, 4, 6, 12, 24]));
 
 
 **Output:**
