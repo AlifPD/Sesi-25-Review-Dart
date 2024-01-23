@@ -3,6 +3,7 @@
 ## Nomor 1
 
 **Input:**
+
 print(nomor_1.checkPalindrome("Anna"));
 
 print(nomor_1.checkPalindrome("Hacktiv8"));
