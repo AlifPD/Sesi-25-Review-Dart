@@ -8,6 +8,7 @@ print(nomor_1.checkPalindrome("Anna"));
 
 print(nomor_1.checkPalindrome("Hacktiv8"));
 
+
 **Output:**
 
 true
@@ -18,6 +19,7 @@ false
 **Input:**
 
 print(nomor_2.checkSum([10, 90, 72, 61, 123]));
+
 
 **Output:**
 
@@ -30,6 +32,7 @@ print(nomor_2.checkSum([10, 90, 72, 61, 123]));
 print(nomor_3.checkPrimes(
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]));
 
+
 **Output:**
 
 [2, 3, 5, 7, 11, 13, 17, 19]
@@ -39,6 +42,7 @@ print(nomor_3.checkPrimes(
 **Input:**
 
 print(nomor_4.encryptPassword("I loVe coding!"));
+
 
 **Output:**
 
@@ -50,6 +54,7 @@ k_NQxG_EQFKPI_
 
 print(nomor_5.convertToCelsius(98.6));
 
+
 **Output:**
 
 37.0
@@ -60,6 +65,7 @@ print(nomor_5.convertToCelsius(98.6));
 
 print(nomor_6.fibonacci(20));
 
+
 **Output:**
 
 [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946]
@@ -69,6 +75,7 @@ print(nomor_6.fibonacci(20));
 **Input:**
 
 print(nomor_7.reverseString("hello world"));
+
 
 **Output:**
 
@@ -82,6 +89,7 @@ print(nomor_8.checkAnagram("silent", "listen"));
 
 print(nomor_8.checkAnagram("mobile", "web"));
 
+
 **Output:**
 
 true
@@ -92,6 +100,7 @@ false
 **Input:**
 
 print(nomor_9.checkFreq([1, 4, 6, 8, 5, 3, 2, 6, 9, 0, 2]));
+
 
 **Output:**
 
@@ -104,6 +113,7 @@ print(nomor_9.checkFreq([1, 4, 6, 8, 5, 3, 2, 6, 9, 0, 2]));
 print(nomor_10.isArithmeticProgression([1, 2, 3, 4, 5, 6]));
 
 print(nomor_10.isArithmeticProgression([2, 4, 6, 12, 24]));
+
 
 **Output:**
 
