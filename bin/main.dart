@@ -30,14 +30,14 @@ void main() {
   print(nomor_5.convertToCelsius(98.6));
 
   print("\n\rNOMOR 6");
-  print(nomor_6.fibonacci(50));
+  print(nomor_6.fibonacci(20));
 
   print("\n\rNOMOR 7");
   print(nomor_7.reverseString("hello world"));
 
   print("\n\rNOMOR 8");
   print(nomor_8.checkAnagram("silent", "listen"));
-  print(nomor_8.checkAnagram("computer", "desktop"));
+  print(nomor_8.checkAnagram("mobile", "web"));
 
   print("\n\rNOMOR 9");
   print(nomor_9.checkFreq([1, 4, 6, 8, 5, 3, 2, 6, 9, 0, 2]));
