@@ -108,7 +108,7 @@ print(nomor_9.checkFreq([1, 4, 6, 8, 5, 3, 2, 6, 9, 0, 2]));
 
 ## Nomor 10
 
-**Input:**
+<ins?>**Input:**</ins>
 
 print(nomor_10.isArithmeticProgression([1, 2, 3, 4, 5, 6]));
 
